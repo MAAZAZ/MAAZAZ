@@ -6,8 +6,9 @@
 
 **Have worked in:**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
-  <img alt="Java" src="https://img.shields.io/badge/Angular-DD0031?logo=Java&logoColor=white&style=flat" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=Java&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
