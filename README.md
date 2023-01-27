@@ -1,5 +1,5 @@
 <h1 align="center">
-  ### Hi there, my name is ZAKARIA MAAZAZ, Welcome to my github page. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+  ### Hi there, Welcome to my github page. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
 ![Snake animation](https://github.com/MAAZAZ/MAAZAZ/blob/output/github-contribution-grid-snake.svg)
