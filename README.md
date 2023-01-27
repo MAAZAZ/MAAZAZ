@@ -1,13 +1,8 @@
-![Snake animation](https://github.com/MAAZAZ/MAAZAZ/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=MAAZAZ&count_private=true&theme=radical&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAAZAZ&layout=compact" />
-
-
 <h1 align="center">
   ### Hi there, my name is ZAKARIA MAAZAZ, Welcome to my github page. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
+
+![Snake animation](https://github.com/MAAZAZ/MAAZAZ/blob/output/github-contribution-grid-snake.svg)
 
 **Have worked in:**
 <p>
