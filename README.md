@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is ZAKARIA MAAZAZ, Welcome to my github page.
 
 ![Snake animation](https://github.com/MAAZAZ/MAAZAZ/blob/output/github-contribution-grid-snake.svg)
 
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![MAAZAZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAAZAZ)](https://github.com/anuraghazra/github-readme-stats)
