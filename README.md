@@ -6,7 +6,7 @@
 
 **Have worked in:**
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white&style=flat" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-3776AB?style=for-the-badge&logo=spring&logoColor=white&style=flat" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
